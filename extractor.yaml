@@ -1,2 +1,2 @@
-tours:
-  css: '#displaytimer'
+temperature:
+  css: '#genesis-content > article > div > table'

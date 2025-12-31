@@ -1,0 +1,2052 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Celsius Temperature Conversion Table for -100°C to 1,000°C</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.sensorsone.com' />
+<link rel="alternate" type="application/rss+xml" title="SensorsONE &raquo; Feed" href="https://www.sensorsone.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SensorsONE &raquo; Comments Feed" href="https://www.sensorsone.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.sensorsone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sensorsone.com%2Fcelsius-conversion-table-100-1000degc%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.sensorsone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sensorsone.com%2Fcelsius-conversion-table-100-1000degc%2F&#038;format=xml" />
+<link rel="canonical" href="https://www.sensorsone.com/celsius-conversion-table-100-1000degc/" />
+<!-- Genesis Open Graph -->
+<meta property="og:title" content="Celsius Temperature Conversion Table for -100°C to 1,000°C" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.sensorsone.com/celsius-conversion-table-100-1000degc/" />
+<meta property="og:image" content="https://www.sensorsone.com/wp-content/uploads/2013/09/minus-100C-to-1000C-Conversion-Table.png" />
+<meta property="og:image:width" content="268" />
+<meta property="og:image:height" content="268" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='genesis-sample-css' href='https://www.sensorsone.com/wp-content/themes/genesis-sample/style.css?ver=3.4.3' media='all' />
+<style id='genesis-sample-inline-css'>
+
+
+		a,
+		.entry-title a:focus,
+		.entry-title a:hover,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:focus,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:hover,
+		.menu-toggle:focus,
+		.menu-toggle:hover,
+		.sub-menu-toggle:focus,
+		.sub-menu-toggle:hover {
+			color: #0066cc;
+		}
+
+		
+
+		button:focus,
+		button:hover,
+		input[type="button"]:focus,
+		input[type="button"]:hover,
+		input[type="reset"]:focus,
+		input[type="reset"]:hover,
+		input[type="submit"]:focus,
+		input[type="submit"]:hover,
+		input[type="reset"]:focus,
+		input[type="reset"]:hover,
+		input[type="submit"]:focus,
+		input[type="submit"]:hover,
+		.site-container div.wpforms-container-full .wpforms-form input[type="submit"]:focus,
+		.site-container div.wpforms-container-full .wpforms-form input[type="submit"]:hover,
+		.site-container div.wpforms-container-full .wpforms-form button[type="submit"]:focus,
+		.site-container div.wpforms-container-full .wpforms-form button[type="submit"]:hover,
+		.button:focus,
+		.button:hover {
+			background-color: #0066cc;
+			color: #ffffff;
+		}
+
+		@media only screen and (min-width: 960px) {
+			.genesis-nav-menu > .menu-highlight > a:hover,
+			.genesis-nav-menu > .menu-highlight > a:focus,
+			.genesis-nav-menu > .menu-highlight.current-menu-item > a {
+				background-color: #0066cc;
+				color: #ffffff;
+			}
+		}
+		
+		.wp-custom-logo .site-container .custom-logo-link {
+			aspect-ratio: 300/80;
+		}
+		
+		.wp-custom-logo .site-container .title-area {
+			max-width: 300px;
+		}
+		
+/*# sourceURL=genesis-sample-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-primary: #0066cc;--wp--preset--color--theme-secondary: #0066cc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 20px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 18px;--wp--preset--font-size--larger: 24px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='s1-genesis-sample-theme-custom-style-css' href='https://www.sensorsone.com/wp-content/plugins/s1-custom-styles/s1-genesis-sample-theme-custom-style.css?ver=2.18' media='all' />
+<link rel='stylesheet' id='s1-general-custom-style-css' href='https://www.sensorsone.com/wp-content/plugins/s1-custom-styles/s1-general-custom-style.css?ver=2.44' media='all' />
+<link rel='stylesheet' id='searchandfilter-css' href='https://www.sensorsone.com/wp-content/plugins/search-filter/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='ez-toc-css' href='https://www.sensorsone.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.79.2' media='all' />
+<style id='ez-toc-inline-css'>
+div#ez-toc-container .ez-toc-title {font-size: 95%;}div#ez-toc-container .ez-toc-title {font-weight: 600;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-size: 95%;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-weight: 500;}div#ez-toc-container nav ul ul li {font-size: 90%;}div#ez-toc-container {background: #fff;border: 1px solid #999999;}div#ez-toc-container p.ez-toc-title , #ez-toc-container .ez_toc_custom_title_icon , #ez-toc-container .ez_toc_custom_toc_icon {color: #666666;}div#ez-toc-container ul.ez-toc-list a {color: #0066cc;}div#ez-toc-container ul.ez-toc-list a:hover {color: #0066cc;}div#ez-toc-container ul.ez-toc-list a:visited {color: #0066cc;}.ez-toc-counter nav ul li a::before {color: ;}.ez-toc-box-title {font-weight: bold; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px; color: #666; padding-bottom: 5px;position:absolute;top:-4%;left:5%;background-color: inherit;transition: top 0.3s ease;}.ez-toc-box-title.toc-closed {top:-25%;}
+/*# sourceURL=ez-toc-inline-css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://www.sensorsone.com/wp-includes/css/dashicons.min.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='genesis-sample-gutenberg-css' href='https://www.sensorsone.com/wp-content/themes/genesis-sample/lib/gutenberg/front-end.css?ver=3.4.3' media='all' />
+<style id='genesis-sample-gutenberg-inline-css'>
+.gb-block-post-grid .gb-post-grid-items h2 a:hover {
+	color: #0066cc;
+}
+
+.site-container .wp-block-button .wp-block-button__link {
+	background-color: #0066cc;
+}
+
+.wp-block-button .wp-block-button__link:not(.has-background),
+.wp-block-button .wp-block-button__link:not(.has-background):focus,
+.wp-block-button .wp-block-button__link:not(.has-background):hover {
+	color: #ffffff;
+}
+
+.site-container .wp-block-button.is-style-outline .wp-block-button__link {
+	color: #0066cc;
+}
+
+.site-container .wp-block-button.is-style-outline .wp-block-button__link:focus,
+.site-container .wp-block-button.is-style-outline .wp-block-button__link:hover {
+	color: #2389ef;
+}		.site-container .has-small-font-size {
+			font-size: 12px;
+		}		.site-container .has-normal-font-size {
+			font-size: 18px;
+		}		.site-container .has-large-font-size {
+			font-size: 20px;
+		}		.site-container .has-larger-font-size {
+			font-size: 24px;
+		}		.site-container .has-theme-primary-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-primary-color,
+		.site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-primary-color {
+			color: #0066cc;
+		}
+
+		.site-container .has-theme-primary-background-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-primary-background-color,
+		.site-container .wp-block-pullquote.is-style-solid-color.has-theme-primary-background-color {
+			background-color: #0066cc;
+		}		.site-container .has-theme-secondary-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-secondary-color,
+		.site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-secondary-color {
+			color: #0066cc;
+		}
+
+		.site-container .has-theme-secondary-background-color,
+		.site-container .wp-block-button .wp-block-button__link.has-theme-secondary-background-color,
+		.site-container .wp-block-pullquote.is-style-solid-color.has-theme-secondary-background-color {
+			background-color: #0066cc;
+		}
+/*# sourceURL=genesis-sample-gutenberg-inline-css */
+</style>
+<script src="https://www.sensorsone.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.sensorsone.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.sensorsone.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.sensorsone.com/wp-json/wp/v2/posts/9142" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sensorsone.com/xmlrpc.php?rsd" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-3KCB8ZQRLX'></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-3KCB8ZQRLX', {
+	  'content_group': 'Conversion Tables', 
+	  's1_content_section': 'Conversion Tables', 
+	  's1_content_update': 'Static',
+	  's1_content_level': 'Standard'
+	});
+</script>
+	
+<meta name="description" content="Look up a temperature from -100 to 1000 degrees Celsius (°C) to convert it to degrees Fahrenheit (°F) or Kelvin (K)." /><meta name="theme-color" content="#99cccd"><link rel="icon" href="https://www.sensorsone.com/wp-content/uploads/2020/08/cropped-s1-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.sensorsone.com/wp-content/uploads/2020/08/cropped-s1-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.sensorsone.com/wp-content/uploads/2020/08/cropped-s1-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.sensorsone.com/wp-content/uploads/2020/08/cropped-s1-icon-270x270.png" />
+		<style id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+		</style>
+		<link rel='stylesheet' id='eu-cookie-law-style-css' href='https://www.sensorsone.com/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/style.css?ver=15.3.1' media='all' />
+</head>
+<body class="wp-singular post-template-default single single-post postid-9142 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-genesis wp-child-theme-genesis-sample header-image header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-hidden no-js has-no-blocks" itemscope itemtype="https://schema.org/WebPage">	<script>
+	//<![CDATA[
+	(function(){
+		var c = document.body.classList;
+		c.remove( 'no-js' );
+		c.add( 'js' );
+	})();
+	//]]>
+	</script>
+	<div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><a href="https://www.sensorsone.com/" class="custom-logo-link" rel="home"><img width="600" height="160" src="https://www.sensorsone.com/wp-content/uploads/2016/06/s1-header.png" class="custom-logo" alt="SensorsONE" decoding="async" srcset="https://www.sensorsone.com/wp-content/uploads/2016/06/s1-header.png 600w, https://www.sensorsone.com/wp-content/uploads/2016/06/s1-header-100x27.png 100w, https://www.sensorsone.com/wp-content/uploads/2016/06/s1-header-250x67.png 250w, https://www.sensorsone.com/wp-content/uploads/2016/06/s1-header-400x107.png 400w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="site-title" itemprop="headline">SensorsONE</p></div><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-top-menubar" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-43718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43718"><a href="https://www.sensorsone.com/products/" title="Browse our range of products" itemprop="url"><span itemprop="name">Products</span></a></li>
+<li id="menu-item-19531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19531"><a href="https://www.sensorsone.com/contact/" title="Contact us with your enquiry" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul></div></nav></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-9142 post type-post status-publish format-standard category-conversion-tables tag-measurement-units tag-temperature-conversion tag-temperature-measurement entry" aria-label="Celsius Temperature Conversion Table for -100°C to 1,000°C" itemscope itemtype="https://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Celsius Temperature Conversion Table for -100°C to 1,000°C</h1>
+</header><div class="entry-content" itemprop="text"><p>Look up a temperature from -100 to 1000 degrees Celsius (°C) to convert it to degrees Fahrenheit (°F), Kelvin (K) or Rankine (°R).</p>
+<p>To convert a temperature value not in this table please use our <a title="Temperature Converter and Conversion Scale" href="https://www.sensorsone.com/temperature-converter/">temperature converter</a> which will accept any value in Celsius (°C), Fahrenheit (°F), Kelvin (K) or Rankine (°R).</p>
+<h2>Celsius Conversion Table</h2>
+<table class="four_column_conversion_table">
+<colgroup>
+<col class="column_highlight" span="1" /> </colgroup>
+<thead>
+<tr>
+<th>°C</th>
+<th>°F</th>
+<th>K</th>
+<th>°R</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-100</td>
+<td>-148.0</td>
+<td>173.15</td>
+<td>311.67</td>
+</tr>
+<tr>
+<td>-99</td>
+<td>-146.2</td>
+<td>174.15</td>
+<td>313.47</td>
+</tr>
+<tr>
+<td>-98</td>
+<td>-144.4</td>
+<td>175.15</td>
+<td>315.27</td>
+</tr>
+<tr>
+<td>-97</td>
+<td>-142.6</td>
+<td>176.15</td>
+<td>317.07</td>
+</tr>
+<tr>
+<td>-96</td>
+<td>-140.8</td>
+<td>177.15</td>
+<td>318.87</td>
+</tr>
+<tr>
+<td>-95</td>
+<td>-139.0</td>
+<td>178.15</td>
+<td>320.67</td>
+</tr>
+<tr>
+<td>-94</td>
+<td>-137.2</td>
+<td>179.15</td>
+<td>322.47</td>
+</tr>
+<tr>
+<td>-93</td>
+<td>-135.4</td>
+<td>180.15</td>
+<td>324.27</td>
+</tr>
+<tr>
+<td>-92</td>
+<td>-133.6</td>
+<td>181.15</td>
+<td>326.07</td>
+</tr>
+<tr>
+<td>-91</td>
+<td>-131.8</td>
+<td>182.15</td>
+<td>327.87</td>
+</tr>
+<tr>
+<td>-90</td>
+<td>-130.0</td>
+<td>183.15</td>
+<td>329.67</td>
+</tr>
+<tr>
+<td>-89</td>
+<td>-128.2</td>
+<td>184.15</td>
+<td>331.47</td>
+</tr>
+<tr>
+<td>-88</td>
+<td>-126.4</td>
+<td>185.15</td>
+<td>333.27</td>
+</tr>
+<tr>
+<td>-87</td>
+<td>-124.6</td>
+<td>186.15</td>
+<td>335.07</td>
+</tr>
+<tr>
+<td>-86</td>
+<td>-122.8</td>
+<td>187.15</td>
+<td>336.87</td>
+</tr>
+<tr>
+<td>-85</td>
+<td>-121.0</td>
+<td>188.15</td>
+<td>338.67</td>
+</tr>
+<tr>
+<td>-84</td>
+<td>-119.2</td>
+<td>189.15</td>
+<td>340.47</td>
+</tr>
+<tr>
+<td>-83</td>
+<td>-117.4</td>
+<td>190.15</td>
+<td>342.27</td>
+</tr>
+<tr>
+<td>-82</td>
+<td>-115.6</td>
+<td>191.15</td>
+<td>344.07</td>
+</tr>
+<tr>
+<td>-81</td>
+<td>-113.8</td>
+<td>192.15</td>
+<td>345.87</td>
+</tr>
+<tr>
+<td>-80</td>
+<td>-112.0</td>
+<td>193.15</td>
+<td>347.67</td>
+</tr>
+<tr>
+<td>-79</td>
+<td>-110.2</td>
+<td>194.15</td>
+<td>349.47</td>
+</tr>
+<tr>
+<td>-78</td>
+<td>-108.4</td>
+<td>195.15</td>
+<td>351.27</td>
+</tr>
+<tr>
+<td>-77</td>
+<td>-106.6</td>
+<td>196.15</td>
+<td>353.07</td>
+</tr>
+<tr>
+<td>-76</td>
+<td>-104.8</td>
+<td>197.15</td>
+<td>354.87</td>
+</tr>
+<tr>
+<td>-75</td>
+<td>-103.0</td>
+<td>198.15</td>
+<td>356.67</td>
+</tr>
+<tr>
+<td>-74</td>
+<td>-101.2</td>
+<td>199.15</td>
+<td>358.47</td>
+</tr>
+<tr>
+<td>-73</td>
+<td>-99.4</td>
+<td>200.15</td>
+<td>360.27</td>
+</tr>
+<tr>
+<td>-72</td>
+<td>-97.6</td>
+<td>201.15</td>
+<td>362.07</td>
+</tr>
+<tr>
+<td>-71</td>
+<td>-95.8</td>
+<td>202.15</td>
+<td>363.87</td>
+</tr>
+<tr>
+<td>-70</td>
+<td>-94.0</td>
+<td>203.15</td>
+<td>365.67</td>
+</tr>
+<tr>
+<td>-69</td>
+<td>-92.2</td>
+<td>204.15</td>
+<td>367.47</td>
+</tr>
+<tr>
+<td>-68</td>
+<td>-90.4</td>
+<td>205.15</td>
+<td>369.27</td>
+</tr>
+<tr>
+<td>-67</td>
+<td>-88.6</td>
+<td>206.15</td>
+<td>371.07</td>
+</tr>
+<tr>
+<td>-66</td>
+<td>-86.8</td>
+<td>207.15</td>
+<td>372.87</td>
+</tr>
+<tr>
+<td>-65</td>
+<td>-85.0</td>
+<td>208.15</td>
+<td>374.67</td>
+</tr>
+<tr>
+<td>-64</td>
+<td>-83.2</td>
+<td>209.15</td>
+<td>376.47</td>
+</tr>
+<tr>
+<td>-63</td>
+<td>-81.4</td>
+<td>210.15</td>
+<td>378.27</td>
+</tr>
+<tr>
+<td>-62</td>
+<td>-79.6</td>
+<td>211.15</td>
+<td>380.07</td>
+</tr>
+<tr>
+<td>-61</td>
+<td>-77.8</td>
+<td>212.15</td>
+<td>381.87</td>
+</tr>
+<tr>
+<td>-60</td>
+<td>-76.0</td>
+<td>213.15</td>
+<td>383.67</td>
+</tr>
+<tr>
+<td>-59</td>
+<td>-74.2</td>
+<td>214.15</td>
+<td>385.47</td>
+</tr>
+<tr>
+<td>-58</td>
+<td>-72.4</td>
+<td>215.15</td>
+<td>387.27</td>
+</tr>
+<tr>
+<td>-57</td>
+<td>-70.6</td>
+<td>216.15</td>
+<td>389.07</td>
+</tr>
+<tr>
+<td>-56</td>
+<td>-68.8</td>
+<td>217.15</td>
+<td>390.87</td>
+</tr>
+<tr>
+<td>-55</td>
+<td>-67.0</td>
+<td>218.15</td>
+<td>392.67</td>
+</tr>
+<tr>
+<td>-54</td>
+<td>-65.2</td>
+<td>219.15</td>
+<td>394.47</td>
+</tr>
+<tr>
+<td>-53</td>
+<td>-63.4</td>
+<td>220.15</td>
+<td>396.27</td>
+</tr>
+<tr>
+<td>-52</td>
+<td>-61.6</td>
+<td>221.15</td>
+<td>398.07</td>
+</tr>
+<tr>
+<td>-51</td>
+<td>-59.8</td>
+<td>222.15</td>
+<td>399.87</td>
+</tr>
+<tr>
+<td>-50</td>
+<td>-58.0</td>
+<td>223.15</td>
+<td>401.67</td>
+</tr>
+<tr>
+<td>-49</td>
+<td>-56.2</td>
+<td>224.15</td>
+<td>403.47</td>
+</tr>
+<tr>
+<td>-48</td>
+<td>-54.4</td>
+<td>225.15</td>
+<td>405.27</td>
+</tr>
+<tr>
+<td>-47</td>
+<td>-52.6</td>
+<td>226.15</td>
+<td>407.07</td>
+</tr>
+<tr>
+<td>-46</td>
+<td>-50.8</td>
+<td>227.15</td>
+<td>408.87</td>
+</tr>
+<tr>
+<td>-45</td>
+<td>-49.0</td>
+<td>228.15</td>
+<td>410.67</td>
+</tr>
+<tr>
+<td>-44</td>
+<td>-47.2</td>
+<td>229.15</td>
+<td>412.47</td>
+</tr>
+<tr>
+<td>-43</td>
+<td>-45.4</td>
+<td>230.15</td>
+<td>414.27</td>
+</tr>
+<tr>
+<td>-42</td>
+<td>-43.6</td>
+<td>231.15</td>
+<td>416.07</td>
+</tr>
+<tr>
+<td>-41</td>
+<td>-41.8</td>
+<td>232.15</td>
+<td>417.87</td>
+</tr>
+<tr>
+<td>-40</td>
+<td>-40.0</td>
+<td>233.15</td>
+<td>419.67</td>
+</tr>
+<tr>
+<td>-39</td>
+<td>-38.2</td>
+<td>234.15</td>
+<td>421.47</td>
+</tr>
+<tr>
+<td>-38</td>
+<td>-36.4</td>
+<td>235.15</td>
+<td>423.27</td>
+</tr>
+<tr>
+<td>-37</td>
+<td>-34.6</td>
+<td>236.15</td>
+<td>425.07</td>
+</tr>
+<tr>
+<td>-36</td>
+<td>-32.8</td>
+<td>237.15</td>
+<td>426.87</td>
+</tr>
+<tr>
+<td>-35</td>
+<td>-31.0</td>
+<td>238.15</td>
+<td>428.67</td>
+</tr>
+<tr>
+<td>-34</td>
+<td>-29.2</td>
+<td>239.15</td>
+<td>430.47</td>
+</tr>
+<tr>
+<td>-33</td>
+<td>-27.4</td>
+<td>240.15</td>
+<td>432.27</td>
+</tr>
+<tr>
+<td>-32</td>
+<td>-25.6</td>
+<td>241.15</td>
+<td>434.07</td>
+</tr>
+<tr>
+<td>-31</td>
+<td>-23.8</td>
+<td>242.15</td>
+<td>435.87</td>
+</tr>
+<tr>
+<td>-30</td>
+<td>-22.0</td>
+<td>243.15</td>
+<td>437.67</td>
+</tr>
+<tr>
+<td>-29</td>
+<td>-20.2</td>
+<td>244.15</td>
+<td>439.47</td>
+</tr>
+<tr>
+<td>-28</td>
+<td>-18.4</td>
+<td>245.15</td>
+<td>441.27</td>
+</tr>
+<tr>
+<td>-27</td>
+<td>-16.6</td>
+<td>246.15</td>
+<td>443.07</td>
+</tr>
+<tr>
+<td>-26</td>
+<td>-14.8</td>
+<td>247.15</td>
+<td>444.87</td>
+</tr>
+<tr>
+<td>-25</td>
+<td>-13.0</td>
+<td>248.15</td>
+<td>446.67</td>
+</tr>
+<tr>
+<td>-24</td>
+<td>-11.2</td>
+<td>249.15</td>
+<td>448.47</td>
+</tr>
+<tr>
+<td>-23</td>
+<td>-9.4</td>
+<td>250.15</td>
+<td>450.27</td>
+</tr>
+<tr>
+<td>-22</td>
+<td>-7.6</td>
+<td>251.15</td>
+<td>452.07</td>
+</tr>
+<tr>
+<td>-21</td>
+<td>-5.8</td>
+<td>252.15</td>
+<td>453.87</td>
+</tr>
+<tr>
+<td>-20</td>
+<td>-4.0</td>
+<td>253.15</td>
+<td>455.67</td>
+</tr>
+<tr>
+<td>-19</td>
+<td>-2.2</td>
+<td>254.15</td>
+<td>457.47</td>
+</tr>
+<tr>
+<td>-18</td>
+<td>-0.4</td>
+<td>255.15</td>
+<td>459.27</td>
+</tr>
+<tr>
+<td>-17</td>
+<td>1.4</td>
+<td>256.15</td>
+<td>461.07</td>
+</tr>
+<tr>
+<td>-16</td>
+<td>3.2</td>
+<td>257.15</td>
+<td>462.87</td>
+</tr>
+<tr>
+<td>-15</td>
+<td>5.0</td>
+<td>258.15</td>
+<td>464.67</td>
+</tr>
+<tr>
+<td>-14</td>
+<td>6.8</td>
+<td>259.15</td>
+<td>466.47</td>
+</tr>
+<tr>
+<td>-13</td>
+<td>8.6</td>
+<td>260.15</td>
+<td>468.27</td>
+</tr>
+<tr>
+<td>-12</td>
+<td>10.4</td>
+<td>261.15</td>
+<td>470.07</td>
+</tr>
+<tr>
+<td>-11</td>
+<td>12.2</td>
+<td>262.15</td>
+<td>471.87</td>
+</tr>
+<tr>
+<td>-10</td>
+<td>14.0</td>
+<td>263.15</td>
+<td>473.67</td>
+</tr>
+<tr>
+<td>-9</td>
+<td>15.8</td>
+<td>264.15</td>
+<td>475.47</td>
+</tr>
+<tr>
+<td>-8</td>
+<td>17.6</td>
+<td>265.15</td>
+<td>477.27</td>
+</tr>
+<tr>
+<td>-7</td>
+<td>19.4</td>
+<td>266.15</td>
+<td>479.07</td>
+</tr>
+<tr>
+<td>-6</td>
+<td>21.2</td>
+<td>267.15</td>
+<td>480.87</td>
+</tr>
+<tr>
+<td>-5</td>
+<td>23.0</td>
+<td>268.15</td>
+<td>482.67</td>
+</tr>
+<tr>
+<td>-4</td>
+<td>24.8</td>
+<td>269.15</td>
+<td>484.47</td>
+</tr>
+<tr>
+<td>-3</td>
+<td>26.6</td>
+<td>270.15</td>
+<td>486.27</td>
+</tr>
+<tr>
+<td>-2</td>
+<td>28.4</td>
+<td>271.15</td>
+<td>488.07</td>
+</tr>
+<tr>
+<td>-1</td>
+<td>30.2</td>
+<td>272.15</td>
+<td>489.87</td>
+</tr>
+<tr>
+<td>0</td>
+<td>32.0</td>
+<td>273.15</td>
+<td>491.67</td>
+</tr>
+<tr>
+<td>1</td>
+<td>33.8</td>
+<td>274.15</td>
+<td>493.47</td>
+</tr>
+<tr>
+<td>2</td>
+<td>35.6</td>
+<td>275.15</td>
+<td>495.27</td>
+</tr>
+<tr>
+<td>3</td>
+<td>37.4</td>
+<td>276.15</td>
+<td>497.07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>39.2</td>
+<td>277.15</td>
+<td>498.87</td>
+</tr>
+<tr>
+<td>5</td>
+<td>41.0</td>
+<td>278.15</td>
+<td>500.67</td>
+</tr>
+<tr>
+<td>6</td>
+<td>42.8</td>
+<td>279.15</td>
+<td>502.47</td>
+</tr>
+<tr>
+<td>7</td>
+<td>44.6</td>
+<td>280.15</td>
+<td>504.27</td>
+</tr>
+<tr>
+<td>8</td>
+<td>46.4</td>
+<td>281.15</td>
+<td>506.07</td>
+</tr>
+<tr>
+<td>9</td>
+<td>48.2</td>
+<td>282.15</td>
+<td>507.87</td>
+</tr>
+<tr>
+<td>10</td>
+<td>50.0</td>
+<td>283.15</td>
+<td>509.67</td>
+</tr>
+<tr>
+<td>11</td>
+<td>51.8</td>
+<td>284.15</td>
+<td>511.47</td>
+</tr>
+<tr>
+<td>12</td>
+<td>53.6</td>
+<td>285.15</td>
+<td>513.27</td>
+</tr>
+<tr>
+<td>13</td>
+<td>55.4</td>
+<td>286.15</td>
+<td>515.07</td>
+</tr>
+<tr>
+<td>14</td>
+<td>57.2</td>
+<td>287.15</td>
+<td>516.87</td>
+</tr>
+<tr>
+<td>15</td>
+<td>59.0</td>
+<td>288.15</td>
+<td>518.67</td>
+</tr>
+<tr>
+<td>16</td>
+<td>60.8</td>
+<td>289.15</td>
+<td>520.47</td>
+</tr>
+<tr>
+<td>17</td>
+<td>62.6</td>
+<td>290.15</td>
+<td>522.27</td>
+</tr>
+<tr>
+<td>18</td>
+<td>64.4</td>
+<td>291.15</td>
+<td>524.07</td>
+</tr>
+<tr>
+<td>19</td>
+<td>66.2</td>
+<td>292.15</td>
+<td>525.87</td>
+</tr>
+<tr>
+<td>20</td>
+<td>68.0</td>
+<td>293.15</td>
+<td>527.67</td>
+</tr>
+<tr>
+<td>21</td>
+<td>69.8</td>
+<td>294.15</td>
+<td>529.47</td>
+</tr>
+<tr>
+<td>22</td>
+<td>71.6</td>
+<td>295.15</td>
+<td>531.27</td>
+</tr>
+<tr>
+<td>23</td>
+<td>73.4</td>
+<td>296.15</td>
+<td>533.07</td>
+</tr>
+<tr>
+<td>24</td>
+<td>75.2</td>
+<td>297.15</td>
+<td>534.87</td>
+</tr>
+<tr>
+<td>25</td>
+<td>77.0</td>
+<td>298.15</td>
+<td>536.67</td>
+</tr>
+<tr>
+<td>26</td>
+<td>78.8</td>
+<td>299.15</td>
+<td>538.47</td>
+</tr>
+<tr>
+<td>27</td>
+<td>80.6</td>
+<td>300.15</td>
+<td>540.27</td>
+</tr>
+<tr>
+<td>28</td>
+<td>82.4</td>
+<td>301.15</td>
+<td>542.07</td>
+</tr>
+<tr>
+<td>29</td>
+<td>84.2</td>
+<td>302.15</td>
+<td>543.87</td>
+</tr>
+<tr>
+<td>30</td>
+<td>86.0</td>
+<td>303.15</td>
+<td>545.67</td>
+</tr>
+<tr>
+<td>31</td>
+<td>87.8</td>
+<td>304.15</td>
+<td>547.47</td>
+</tr>
+<tr>
+<td>32</td>
+<td>89.6</td>
+<td>305.15</td>
+<td>549.27</td>
+</tr>
+<tr>
+<td>33</td>
+<td>91.4</td>
+<td>306.15</td>
+<td>551.07</td>
+</tr>
+<tr>
+<td>34</td>
+<td>93.2</td>
+<td>307.15</td>
+<td>552.87</td>
+</tr>
+<tr>
+<td>35</td>
+<td>95.0</td>
+<td>308.15</td>
+<td>554.67</td>
+</tr>
+<tr>
+<td>36</td>
+<td>96.8</td>
+<td>309.15</td>
+<td>556.47</td>
+</tr>
+<tr>
+<td>37</td>
+<td>98.6</td>
+<td>310.15</td>
+<td>558.27</td>
+</tr>
+<tr>
+<td>38</td>
+<td>100.4</td>
+<td>311.15</td>
+<td>560.07</td>
+</tr>
+<tr>
+<td>39</td>
+<td>102.2</td>
+<td>312.15</td>
+<td>561.87</td>
+</tr>
+<tr>
+<td>40</td>
+<td>104.0</td>
+<td>313.15</td>
+<td>563.67</td>
+</tr>
+<tr>
+<td>41</td>
+<td>105.8</td>
+<td>314.15</td>
+<td>565.47</td>
+</tr>
+<tr>
+<td>42</td>
+<td>107.6</td>
+<td>315.15</td>
+<td>567.27</td>
+</tr>
+<tr>
+<td>43</td>
+<td>109.4</td>
+<td>316.15</td>
+<td>569.07</td>
+</tr>
+<tr>
+<td>44</td>
+<td>111.2</td>
+<td>317.15</td>
+<td>570.87</td>
+</tr>
+<tr>
+<td>45</td>
+<td>113.0</td>
+<td>318.15</td>
+<td>572.67</td>
+</tr>
+<tr>
+<td>46</td>
+<td>114.8</td>
+<td>319.15</td>
+<td>574.47</td>
+</tr>
+<tr>
+<td>47</td>
+<td>116.6</td>
+<td>320.15</td>
+<td>576.27</td>
+</tr>
+<tr>
+<td>48</td>
+<td>118.4</td>
+<td>321.15</td>
+<td>578.07</td>
+</tr>
+<tr>
+<td>49</td>
+<td>120.2</td>
+<td>322.15</td>
+<td>579.87</td>
+</tr>
+<tr>
+<td>50</td>
+<td>122.0</td>
+<td>323.15</td>
+<td>581.67</td>
+</tr>
+<tr>
+<td>51</td>
+<td>123.8</td>
+<td>324.15</td>
+<td>583.47</td>
+</tr>
+<tr>
+<td>52</td>
+<td>125.6</td>
+<td>325.15</td>
+<td>585.27</td>
+</tr>
+<tr>
+<td>53</td>
+<td>127.4</td>
+<td>326.15</td>
+<td>587.07</td>
+</tr>
+<tr>
+<td>54</td>
+<td>129.2</td>
+<td>327.15</td>
+<td>588.87</td>
+</tr>
+<tr>
+<td>55</td>
+<td>131.0</td>
+<td>328.15</td>
+<td>590.67</td>
+</tr>
+<tr>
+<td>56</td>
+<td>132.8</td>
+<td>329.15</td>
+<td>592.47</td>
+</tr>
+<tr>
+<td>57</td>
+<td>134.6</td>
+<td>330.15</td>
+<td>594.27</td>
+</tr>
+<tr>
+<td>58</td>
+<td>136.4</td>
+<td>331.15</td>
+<td>596.07</td>
+</tr>
+<tr>
+<td>59</td>
+<td>138.2</td>
+<td>332.15</td>
+<td>597.87</td>
+</tr>
+<tr>
+<td>60</td>
+<td>140.0</td>
+<td>333.15</td>
+<td>599.67</td>
+</tr>
+<tr>
+<td>61</td>
+<td>141.8</td>
+<td>334.15</td>
+<td>601.47</td>
+</tr>
+<tr>
+<td>62</td>
+<td>143.6</td>
+<td>335.15</td>
+<td>603.27</td>
+</tr>
+<tr>
+<td>63</td>
+<td>145.4</td>
+<td>336.15</td>
+<td>605.07</td>
+</tr>
+<tr>
+<td>64</td>
+<td>147.2</td>
+<td>337.15</td>
+<td>606.87</td>
+</tr>
+<tr>
+<td>65</td>
+<td>149.0</td>
+<td>338.15</td>
+<td>608.67</td>
+</tr>
+<tr>
+<td>66</td>
+<td>150.8</td>
+<td>339.15</td>
+<td>610.47</td>
+</tr>
+<tr>
+<td>67</td>
+<td>152.6</td>
+<td>340.15</td>
+<td>612.27</td>
+</tr>
+<tr>
+<td>68</td>
+<td>154.4</td>
+<td>341.15</td>
+<td>614.07</td>
+</tr>
+<tr>
+<td>69</td>
+<td>156.2</td>
+<td>342.15</td>
+<td>615.87</td>
+</tr>
+<tr>
+<td>70</td>
+<td>158.0</td>
+<td>343.15</td>
+<td>617.67</td>
+</tr>
+<tr>
+<td>71</td>
+<td>159.8</td>
+<td>344.15</td>
+<td>619.47</td>
+</tr>
+<tr>
+<td>72</td>
+<td>161.6</td>
+<td>345.15</td>
+<td>621.27</td>
+</tr>
+<tr>
+<td>73</td>
+<td>163.4</td>
+<td>346.15</td>
+<td>623.07</td>
+</tr>
+<tr>
+<td>74</td>
+<td>165.2</td>
+<td>347.15</td>
+<td>624.87</td>
+</tr>
+<tr>
+<td>75</td>
+<td>167.0</td>
+<td>348.15</td>
+<td>626.67</td>
+</tr>
+<tr>
+<td>76</td>
+<td>168.8</td>
+<td>349.15</td>
+<td>628.47</td>
+</tr>
+<tr>
+<td>77</td>
+<td>170.6</td>
+<td>350.15</td>
+<td>630.27</td>
+</tr>
+<tr>
+<td>78</td>
+<td>172.4</td>
+<td>351.15</td>
+<td>632.07</td>
+</tr>
+<tr>
+<td>79</td>
+<td>174.2</td>
+<td>352.15</td>
+<td>633.87</td>
+</tr>
+<tr>
+<td>80</td>
+<td>176.0</td>
+<td>353.15</td>
+<td>635.67</td>
+</tr>
+<tr>
+<td>81</td>
+<td>177.8</td>
+<td>354.15</td>
+<td>637.47</td>
+</tr>
+<tr>
+<td>82</td>
+<td>179.6</td>
+<td>355.15</td>
+<td>639.27</td>
+</tr>
+<tr>
+<td>83</td>
+<td>181.4</td>
+<td>356.15</td>
+<td>641.07</td>
+</tr>
+<tr>
+<td>84</td>
+<td>183.2</td>
+<td>357.15</td>
+<td>642.87</td>
+</tr>
+<tr>
+<td>85</td>
+<td>185.0</td>
+<td>358.15</td>
+<td>644.67</td>
+</tr>
+<tr>
+<td>86</td>
+<td>186.8</td>
+<td>359.15</td>
+<td>646.47</td>
+</tr>
+<tr>
+<td>87</td>
+<td>188.6</td>
+<td>360.15</td>
+<td>648.27</td>
+</tr>
+<tr>
+<td>88</td>
+<td>190.4</td>
+<td>361.15</td>
+<td>650.07</td>
+</tr>
+<tr>
+<td>89</td>
+<td>192.2</td>
+<td>362.15</td>
+<td>651.87</td>
+</tr>
+<tr>
+<td>90</td>
+<td>194.0</td>
+<td>363.15</td>
+<td>653.67</td>
+</tr>
+<tr>
+<td>91</td>
+<td>195.8</td>
+<td>364.15</td>
+<td>655.47</td>
+</tr>
+<tr>
+<td>92</td>
+<td>197.6</td>
+<td>365.15</td>
+<td>657.27</td>
+</tr>
+<tr>
+<td>93</td>
+<td>199.4</td>
+<td>366.15</td>
+<td>659.07</td>
+</tr>
+<tr>
+<td>94</td>
+<td>201.2</td>
+<td>367.15</td>
+<td>660.87</td>
+</tr>
+<tr>
+<td>95</td>
+<td>203.0</td>
+<td>368.15</td>
+<td>662.67</td>
+</tr>
+<tr>
+<td>96</td>
+<td>204.8</td>
+<td>369.15</td>
+<td>664.47</td>
+</tr>
+<tr>
+<td>97</td>
+<td>206.6</td>
+<td>370.15</td>
+<td>666.27</td>
+</tr>
+<tr>
+<td>98</td>
+<td>208.4</td>
+<td>371.15</td>
+<td>668.07</td>
+</tr>
+<tr>
+<td>99</td>
+<td>210.2</td>
+<td>372.15</td>
+<td>669.87</td>
+</tr>
+<tr>
+<td>100</td>
+<td>212.0</td>
+<td>373.15</td>
+<td>671.67</td>
+</tr>
+<tr>
+<td>110</td>
+<td>230.0</td>
+<td>383.15</td>
+<td>689.67</td>
+</tr>
+<tr>
+<td>120</td>
+<td>248.0</td>
+<td>393.15</td>
+<td>707.67</td>
+</tr>
+<tr>
+<td>130</td>
+<td>266.0</td>
+<td>403.15</td>
+<td>725.67</td>
+</tr>
+<tr>
+<td>140</td>
+<td>284.0</td>
+<td>413.15</td>
+<td>743.67</td>
+</tr>
+<tr>
+<td>150</td>
+<td>302.0</td>
+<td>423.15</td>
+<td>761.67</td>
+</tr>
+<tr>
+<td>160</td>
+<td>320.0</td>
+<td>433.15</td>
+<td>779.67</td>
+</tr>
+<tr>
+<td>170</td>
+<td>338.0</td>
+<td>443.15</td>
+<td>797.67</td>
+</tr>
+<tr>
+<td>180</td>
+<td>356.0</td>
+<td>453.15</td>
+<td>815.67</td>
+</tr>
+<tr>
+<td>190</td>
+<td>374.0</td>
+<td>463.15</td>
+<td>833.67</td>
+</tr>
+<tr>
+<td>200</td>
+<td>392.0</td>
+<td>473.15</td>
+<td>851.67</td>
+</tr>
+<tr>
+<td>210</td>
+<td>410.0</td>
+<td>483.15</td>
+<td>869.67</td>
+</tr>
+<tr>
+<td>220</td>
+<td>428.0</td>
+<td>493.15</td>
+<td>887.67</td>
+</tr>
+<tr>
+<td>230</td>
+<td>446.0</td>
+<td>503.15</td>
+<td>905.67</td>
+</tr>
+<tr>
+<td>240</td>
+<td>464.0</td>
+<td>513.15</td>
+<td>923.67</td>
+</tr>
+<tr>
+<td>250</td>
+<td>482.0</td>
+<td>523.15</td>
+<td>941.67</td>
+</tr>
+<tr>
+<td>260</td>
+<td>500.0</td>
+<td>533.15</td>
+<td>959.67</td>
+</tr>
+<tr>
+<td>270</td>
+<td>518.0</td>
+<td>543.15</td>
+<td>977.67</td>
+</tr>
+<tr>
+<td>280</td>
+<td>536.0</td>
+<td>553.15</td>
+<td>995.67</td>
+</tr>
+<tr>
+<td>290</td>
+<td>554.0</td>
+<td>563.15</td>
+<td>1013.67</td>
+</tr>
+<tr>
+<td>300</td>
+<td>572.0</td>
+<td>573.15</td>
+<td>1031.67</td>
+</tr>
+<tr>
+<td>310</td>
+<td>590.0</td>
+<td>583.15</td>
+<td>1049.67</td>
+</tr>
+<tr>
+<td>320</td>
+<td>608.0</td>
+<td>593.15</td>
+<td>1067.67</td>
+</tr>
+<tr>
+<td>330</td>
+<td>626.0</td>
+<td>603.15</td>
+<td>1085.67</td>
+</tr>
+<tr>
+<td>340</td>
+<td>644.0</td>
+<td>613.15</td>
+<td>1103.67</td>
+</tr>
+<tr>
+<td>350</td>
+<td>662.0</td>
+<td>623.15</td>
+<td>1121.67</td>
+</tr>
+<tr>
+<td>360</td>
+<td>680.0</td>
+<td>633.15</td>
+<td>1139.67</td>
+</tr>
+<tr>
+<td>370</td>
+<td>698.0</td>
+<td>643.15</td>
+<td>1157.67</td>
+</tr>
+<tr>
+<td>380</td>
+<td>716.0</td>
+<td>653.15</td>
+<td>1175.67</td>
+</tr>
+<tr>
+<td>390</td>
+<td>734.0</td>
+<td>663.15</td>
+<td>1193.67</td>
+</tr>
+<tr>
+<td>400</td>
+<td>752.0</td>
+<td>673.15</td>
+<td>1211.67</td>
+</tr>
+<tr>
+<td>410</td>
+<td>770.0</td>
+<td>683.15</td>
+<td>1229.67</td>
+</tr>
+<tr>
+<td>420</td>
+<td>788.0</td>
+<td>693.15</td>
+<td>1247.67</td>
+</tr>
+<tr>
+<td>430</td>
+<td>806.0</td>
+<td>703.15</td>
+<td>1265.67</td>
+</tr>
+<tr>
+<td>440</td>
+<td>824.0</td>
+<td>713.15</td>
+<td>1283.67</td>
+</tr>
+<tr>
+<td>450</td>
+<td>842.0</td>
+<td>723.15</td>
+<td>1301.67</td>
+</tr>
+<tr>
+<td>460</td>
+<td>860.0</td>
+<td>733.15</td>
+<td>1319.67</td>
+</tr>
+<tr>
+<td>470</td>
+<td>878.0</td>
+<td>743.15</td>
+<td>1337.67</td>
+</tr>
+<tr>
+<td>480</td>
+<td>896.0</td>
+<td>753.15</td>
+<td>1355.67</td>
+</tr>
+<tr>
+<td>490</td>
+<td>914.0</td>
+<td>763.15</td>
+<td>1373.67</td>
+</tr>
+<tr>
+<td>500</td>
+<td>932.0</td>
+<td>773.15</td>
+<td>1391.67</td>
+</tr>
+<tr>
+<td>510</td>
+<td>950.0</td>
+<td>783.15</td>
+<td>1409.67</td>
+</tr>
+<tr>
+<td>520</td>
+<td>968.0</td>
+<td>793.15</td>
+<td>1427.67</td>
+</tr>
+<tr>
+<td>530</td>
+<td>986.0</td>
+<td>803.15</td>
+<td>1445.67</td>
+</tr>
+<tr>
+<td>540</td>
+<td>1004.0</td>
+<td>813.15</td>
+<td>1463.67</td>
+</tr>
+<tr>
+<td>550</td>
+<td>1022.0</td>
+<td>823.15</td>
+<td>1481.67</td>
+</tr>
+<tr>
+<td>560</td>
+<td>1040.0</td>
+<td>833.15</td>
+<td>1499.67</td>
+</tr>
+<tr>
+<td>570</td>
+<td>1058.0</td>
+<td>843.15</td>
+<td>1517.67</td>
+</tr>
+<tr>
+<td>580</td>
+<td>1076.0</td>
+<td>853.15</td>
+<td>1535.67</td>
+</tr>
+<tr>
+<td>590</td>
+<td>1094.0</td>
+<td>863.15</td>
+<td>1553.67</td>
+</tr>
+<tr>
+<td>600</td>
+<td>1112.0</td>
+<td>873.15</td>
+<td>1571.67</td>
+</tr>
+<tr>
+<td>610</td>
+<td>1130.0</td>
+<td>883.15</td>
+<td>1589.67</td>
+</tr>
+<tr>
+<td>620</td>
+<td>1148.0</td>
+<td>893.15</td>
+<td>1607.67</td>
+</tr>
+<tr>
+<td>630</td>
+<td>1166.0</td>
+<td>903.15</td>
+<td>1625.67</td>
+</tr>
+<tr>
+<td>640</td>
+<td>1184.0</td>
+<td>913.15</td>
+<td>1643.67</td>
+</tr>
+<tr>
+<td>650</td>
+<td>1202.0</td>
+<td>923.15</td>
+<td>1661.67</td>
+</tr>
+<tr>
+<td>660</td>
+<td>1220.0</td>
+<td>933.15</td>
+<td>1679.67</td>
+</tr>
+<tr>
+<td>670</td>
+<td>1238.0</td>
+<td>943.15</td>
+<td>1697.67</td>
+</tr>
+<tr>
+<td>680</td>
+<td>1256.0</td>
+<td>953.15</td>
+<td>1715.67</td>
+</tr>
+<tr>
+<td>690</td>
+<td>1274.0</td>
+<td>963.15</td>
+<td>1733.67</td>
+</tr>
+<tr>
+<td>700</td>
+<td>1292.0</td>
+<td>973.15</td>
+<td>1751.67</td>
+</tr>
+<tr>
+<td>710</td>
+<td>1310.0</td>
+<td>983.15</td>
+<td>1769.67</td>
+</tr>
+<tr>
+<td>720</td>
+<td>1328.0</td>
+<td>993.15</td>
+<td>1787.67</td>
+</tr>
+<tr>
+<td>730</td>
+<td>1346.0</td>
+<td>1003.15</td>
+<td>1805.67</td>
+</tr>
+<tr>
+<td>740</td>
+<td>1364.0</td>
+<td>1013.15</td>
+<td>1823.67</td>
+</tr>
+<tr>
+<td>750</td>
+<td>1382.0</td>
+<td>1023.15</td>
+<td>1841.67</td>
+</tr>
+<tr>
+<td>760</td>
+<td>1400.0</td>
+<td>1033.15</td>
+<td>1859.67</td>
+</tr>
+<tr>
+<td>770</td>
+<td>1418.0</td>
+<td>1043.15</td>
+<td>1877.67</td>
+</tr>
+<tr>
+<td>780</td>
+<td>1436.0</td>
+<td>1053.15</td>
+<td>1895.67</td>
+</tr>
+<tr>
+<td>790</td>
+<td>1454.0</td>
+<td>1063.15</td>
+<td>1913.67</td>
+</tr>
+<tr>
+<td>800</td>
+<td>1472.0</td>
+<td>1073.15</td>
+<td>1931.67</td>
+</tr>
+<tr>
+<td>810</td>
+<td>1490.0</td>
+<td>1083.15</td>
+<td>1949.67</td>
+</tr>
+<tr>
+<td>820</td>
+<td>1508.0</td>
+<td>1093.15</td>
+<td>1967.67</td>
+</tr>
+<tr>
+<td>830</td>
+<td>1526.0</td>
+<td>1103.15</td>
+<td>1985.67</td>
+</tr>
+<tr>
+<td>840</td>
+<td>1544.0</td>
+<td>1113.15</td>
+<td>2003.67</td>
+</tr>
+<tr>
+<td>850</td>
+<td>1562.0</td>
+<td>1123.15</td>
+<td>2021.67</td>
+</tr>
+<tr>
+<td>860</td>
+<td>1580.0</td>
+<td>1133.15</td>
+<td>2039.67</td>
+</tr>
+<tr>
+<td>870</td>
+<td>1598.0</td>
+<td>1143.15</td>
+<td>2057.67</td>
+</tr>
+<tr>
+<td>880</td>
+<td>1616.0</td>
+<td>1153.15</td>
+<td>2075.67</td>
+</tr>
+<tr>
+<td>890</td>
+<td>1634.0</td>
+<td>1163.15</td>
+<td>2093.67</td>
+</tr>
+<tr>
+<td>900</td>
+<td>1652.0</td>
+<td>1173.15</td>
+<td>2111.67</td>
+</tr>
+<tr>
+<td>910</td>
+<td>1670.0</td>
+<td>1183.15</td>
+<td>2129.67</td>
+</tr>
+<tr>
+<td>920</td>
+<td>1688.0</td>
+<td>1193.15</td>
+<td>2147.67</td>
+</tr>
+<tr>
+<td>930</td>
+<td>1706.0</td>
+<td>1203.15</td>
+<td>2165.67</td>
+</tr>
+<tr>
+<td>940</td>
+<td>1724.0</td>
+<td>1213.15</td>
+<td>2183.67</td>
+</tr>
+<tr>
+<td>950</td>
+<td>1742.0</td>
+<td>1223.15</td>
+<td>2201.67</td>
+</tr>
+<tr>
+<td>960</td>
+<td>1760.0</td>
+<td>1233.15</td>
+<td>2219.67</td>
+</tr>
+<tr>
+<td>970</td>
+<td>1778.0</td>
+<td>1243.15</td>
+<td>2237.67</td>
+</tr>
+<tr>
+<td>980</td>
+<td>1796.0</td>
+<td>1253.15</td>
+<td>2255.67</td>
+</tr>
+<tr>
+<td>990</td>
+<td>1814.0</td>
+<td>1263.15</td>
+<td>2273.67</td>
+</tr>
+<tr>
+<td>1000</td>
+<td>1832.0</td>
+<td>1273.15</td>
+<td>2291.67</td>
+</tr>
+</tbody>
+</table>
+</div><footer class="entry-footer"></footer></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="media_image-18" class="widget widget_media_image"><div class="widget-wrap"><h3 class="widgettitle widget-title">Wirelessly Measure &#038; Log Temperature</h3>
+<figure style="width: 250px" class="wp-caption alignnone"><a href="https://www.sensorsone.com/iwtt-wireless-battery-powered-temperature-sensor-receiver/"><img width="250" height="391" src="https://www.sensorsone.com/wp-content/uploads/2023/02/IWTT-250x391.jpg" class="image wp-image-38769  attachment-medium size-medium" alt="Use this battery powered wireless temperature probe to transmit readings to a receiver connected to USB, RS485, RS232, cellular network or analog output" style="max-width: 100%; height: auto;" title="Wirelessly Measure &amp; Log Temperature" decoding="async" loading="lazy" srcset="https://www.sensorsone.com/wp-content/uploads/2023/02/IWTT-250x391.jpg 250w, https://www.sensorsone.com/wp-content/uploads/2023/02/IWTT-64x100.jpg 64w, https://www.sensorsone.com/wp-content/uploads/2023/02/IWTT.jpg 304w" sizes="auto, (max-width: 250px) 100vw, 250px" /></a><figcaption class="wp-caption-text"><br>Use this battery powered <a href="https://www.sensorsone.com/iwtt-wireless-battery-powered-temperature-sensor-receiver/">wireless temperature probe</a> to transmit readings to a receiver connected to USB, RS485, RS232, cellular network or analog output</figcaption></figure></div></section>
+<section id="text-31" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Email Your Enquiry</h3>
+			<div class="textwidget"><a id="s1-sidebar-email-enquiry-link" href="mailto:enquiries@sensorsone.com?subject=SensorsONE%20Enquiry%3A%20Celsius%20Temperature%20Conversion%20Table%20for%20-100%C2%B0C%20to%201%2C000%C2%B0C%20%28ref%20no.%200%2D9142%2D" onclick="gtag('event', 'cta_click_s1', {'event_category': 'cta links', 'event_label': 'sidebar email enquiries link'});" target="_blank">enquiries@sensorsone.com</a>
+		<script>
+			var EmailEnqURL = document.getElementById("s1-sidebar-email-enquiry-link").href;
+			var UnixTime = Date.now();
+			var UnixTimeSecs = Math.trunc(UnixTime/1000);
+			document.getElementById("s1-sidebar-email-enquiry-link").href = EmailEnqURL + UnixTimeSecs + "%29&body=Country%3A%20%3F";
+		</script>
+</div>
+		</div></section>
+<section id="eu_cookie_law_widget-2" class="widget widget_eu_cookie_law_widget"><div class="widget-wrap">
+<div
+	class="hide-on-scroll negative"
+	data-hide-timeout="30"
+	data-consent-expiration="365"
+	id="eu-cookie-law"
+>
+	<form method="post" id="jetpack-eu-cookie-law-form">
+		<input type="submit" value="OK" class="accept" />
+	</form>
+
+	By clicking &quot;OK&quot; or continuing to use this website you are providing your consent to use cookies as described in our
+		<a href="https://www.sensorsone.com/legal/privacy/" rel="">
+		Privacy Policy	</a>
+</div>
+</div></section>
+</aside></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><p> &#xA9;&nbsp;2025 SensorsONE Ltd, all rights reserved</p><nav class="nav-secondary" aria-label="Secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-bottom-menubar" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-25728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-25728"><a href="https://www.sensorsone.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-34924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34924"><a href="https://www.sensorsone.com/products/" itemprop="url"><span itemprop="name">Products</span></a></li>
+<li id="menu-item-34923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34923"><a href="https://www.sensorsone.com/tools/" itemprop="url"><span itemprop="name">Tools</span></a></li>
+<li id="menu-item-25729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25729"><a href="https://www.sensorsone.com/legal/" itemprop="url"><span itemprop="name">Legal</span></a></li>
+<li id="menu-item-25731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25731"><a href="https://www.sensorsone.com/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul></div></nav></div></footer></div><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/genesis-sample/*","/wp-content/themes/genesis/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script src="https://www.sensorsone.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1" id="ez-toc-js-cookie-js"></script>
+<script src="https://www.sensorsone.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2" id="ez-toc-jquery-sticky-kit-js"></script>
+<script id="ez-toc-js-js-extra">
+var ezTOC = {"smooth_scroll":"","visibility_hide_by_default":"1","scroll_offset":"30","fallbackIcon":"\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #666666;color:#666666\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #666666;color:#666666\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E","visibility_hide_by_device":"1","chamomile_theme_is_on":""};
+//# sourceURL=ez-toc-js-js-extra
+</script>
+<script src="https://www.sensorsone.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.79.2-1765301840" id="ez-toc-js-js"></script>
+<script src="https://www.sensorsone.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script src="https://www.sensorsone.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10" id="superfish-js"></script>
+<script src="https://www.sensorsone.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.6.1" id="superfish-args-js"></script>
+<script src="https://www.sensorsone.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.6.1" id="skip-links-js"></script>
+<script id="genesis-sample-responsive-menu-js-extra">
+var genesis_responsive_menu = {"mainMenu":"Menu","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"others":[".nav-primary"]}};
+//# sourceURL=genesis-sample-responsive-menu-js-extra
+</script>
+<script src="https://www.sensorsone.com/wp-content/themes/genesis/lib/js/menu/responsive-menus.min.js?ver=1.1.3" id="genesis-sample-responsive-menu-js"></script>
+<script src="https://www.sensorsone.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" id="eu-cookie-law-script-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.sensorsone.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.sensorsone.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body></html>
+
+<!-- Dynamic page generated in 0.578 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-12-25 01:29:17 -->
+
+<!-- Compression = gzip -->
